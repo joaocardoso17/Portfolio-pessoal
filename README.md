@@ -15,17 +15,17 @@ Você pode navegar pelo protótipo completo (com interações) aqui:
 ### Página inicial
 Apresentação com status de disponibilidade, nome, cargo/objetivo, foto e resumo de números (projetos, formação e tecnologias).
 
-![Página inicial](./assets/pagina-inicial.png)
+![Página inicial](./pagina-inicial.png)
 
 ### Stacks & Habilidades
 Seção dividida em quatro blocos: linguagens, ferramentas, hard skills e soft skills.
 
-![Stacks e Habilidades](./assets/stacks-habilidades.png)
+![Stacks e Habilidades](./stacks-habilidades.png)
 
 ### Projetos principais
 Cards com os projetos em destaque, incluindo descrição, tecnologias utilizadas e link para o case de cada um.
 
-![Projetos principais](./assets/projetos-principais.png)
+![Projetos principais](./projetos-principais.png)
 
 ## 🧩 Estrutura da página
 
@@ -34,21 +34,11 @@ Cards com os projetos em destaque, incluindo descrição, tecnologias utilizadas
 - **Projetos** — repositório dos principais projetos desenvolvidos
 - **Contato** — formas de conexão (GitHub, LinkedIn, etc.)
 
-## 🛠️ Tecnologias e ferramentas envolvidas no design/dev
-
-| Categoria | Itens |
-|---|---|
-| Linguagens | Python, HTML5, CSS3, JavaScript |
-| Ferramentas | Figma, Git, GitHub, VS Code |
-| Hard Skills | UI/UX Design, Versionamento, Lógica de Programação, API Integration |
-| Soft Skills | Resolução de Problemas, Trabalho em Equipe, Aprendizado Contínuo, Comunicação |
-
 ## 📌 Sobre este repositório
 
 Este repositório serve como **vitrine do protótipo** do portfólio — ainda em fase de design/prototipagem no Figma, antes da implementação final em código.
 
 ## 📬 Contato
 
-- GitHub: [seu link aqui]
-- LinkedIn: [seu link aqui]
-- Portfólio: [seu link aqui, quando publicado]
+- GitHub: [https://github.com/joaocardoso17]
+- LinkedIn: [https://www.linkedin.com/in/joaocardoso-dev/]
